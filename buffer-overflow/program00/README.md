@@ -7,8 +7,8 @@ This exercise demonstrates controlling program execution by overwriting the retu
 - `vuln00.c`: Vulnerable C program
 - `payload.py`: Exploit generator
 - `pattern.py`: Offset calculator
-- `approach.txt`: Personal notes
-- `Description.txt`: Learning objectives
+- `Approach.md`: Personal notes
+- `Description.md`: Learning objectives
 
 ## How to Reproduce
 
